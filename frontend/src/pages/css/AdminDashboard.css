@@ -1,0 +1,54 @@
+.admin {
+  text-align: center;
+  padding: 40px;
+}
+
+.admin h2 {
+  margin-bottom: 20px;
+}
+
+.admin p {
+  background: rgba(255,255,255,0.1);
+  margin: 10px auto;
+  padding: 10px;
+  width: 300px;
+  border-radius: 5px;
+}
+.admin-container {
+  font-family: Arial;
+}
+
+/* NAVBAR */
+.topbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 15px 40px;
+  background: #1e88e5;
+  color: white;
+}
+
+.nav-right a {
+  margin: 0 10px;
+  color: white;
+  text-decoration: none;
+}
+
+.logout-btn {
+  background: red;
+  border: none;
+  color: white;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+/* CONTENT */
+.admin {
+  padding: 20px;
+}
+
+.admin p {
+  background: #f4f6f9;
+  padding: 10px;
+  margin: 10px 0;
+  border-radius: 5px;
+}

@@ -1,0 +1,63 @@
+.form {
+  width: 100px;
+  margin: 80px auto;
+  padding: 25px;
+  background: rgba(255,255,255,0.1);
+  backdrop-filter: blur(10px);
+  border-radius: 10px;
+  text-align: center;
+  color: rgb(76, 179, 238);
+}
+
+.form input {
+  width: 90%;
+  padding: 10px;
+  margin: 10px 0;
+  border: none;
+  border-radius: 5px;
+}
+
+.form button {
+  width: 100%;
+  padding: 10px;
+  background: #00c6ff;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  cursor: pointer;
+}
+
+.error {
+  color: red;
+}
+.box {
+  height: 580px;
+    background-image: url("https://cdn.vectorstock.com/i/1000v/32/75/online-voting-system-concept-vector-24473275.jpg");
+    background-size: cover;
+    background-position: center;
+}
+.container {
+  text-align: center;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 15px 40px;
+  background: #1e88e5;
+  color: white;
+}
+
+.links a {
+  margin: 0 10px;
+  color: white;
+  text-decoration: none;
+}
+
+.links button {
+  background: red;
+  border: none;
+  color: white;
+  padding: 5px 10px;
+  cursor: pointer;
+}
