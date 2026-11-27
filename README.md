@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/online-voting-banner.png" alt="Online Voting System banner by Sangita Bind" width="100%">
-</p>
+
 
 <h1 align="center">🗳️ Online Voting System</h1>
 
